@@ -1,3 +1,4 @@
+
 <h1 align="center">Hola, soy Walid Bousnitra 👋</h1>
 <p align="center">
   Computer Scientist | Business Solutions Developer | AI Engineer | Computational Systems & Algorithm Specialist
@@ -10,8 +11,8 @@
 - 🔭 Actualmente trabajando en LiveMed Iberia S.L.
 - 🌱 Aprendiendo Machine Learning
 - 💬 Pregúntame sobre IA y Computación Cuántica
-- 📫 Contáctame en **[Tu Email o Redes Sociales]**
-- 🎯 Objetivo: **[Tu meta profesional o personal]**
+- 📫 Contáctame en walidbousnitra@hotmail.com
+- 🎯 Objetivo: Desarrollar soluciones innovadoras y seguir creciendo profesionalmente
 
 ---
 
