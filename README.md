@@ -1,7 +1,7 @@
 <!-- Encabezado con una imagen y una breve presentación -->
-<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
+<h1 align="center">Hola, soy Walid Bousnitra 👋</h1>
 <p align="center">
-  🚀 Desarrollador | 💡 Entusiasta de la tecnología | 🎨 Creador
+  Computer Scientist | Business Solutions Developer | AI Engineer | Computational Systems & Algorithm Specialist
 </p>
 
 ---
