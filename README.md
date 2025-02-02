@@ -16,17 +16,9 @@
 
 ---
 
-### 🚀 Herramientas
+### 🚀 Tecnologías
 
-<p align="center">
-  <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?idea,eclipse,linux,matlab,visualstudio,vscode,androidstudio,firebase,git,github,ai,ps,notion" />
-  </a>
-</p>
-
----
-
-### 🚀 Tecnologías Front-End
+#### Front-End
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,13 +26,21 @@
   </a>
 </p>
 
----
-
-### 🚀 Tecnologías Back-End
+#### Back-End
 
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,selenium,java,azure,bash,c,cpp,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,selenium,java,azure,bash,c,cpp,postgres,haskell" />
+  </a>
+</p>
+
+---
+
+### 🚀 Herramientas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+ <img src="https://skillicons.dev/icons?i=idea,eclipse,linux,matlab,visualstudio,vscode,androidstudio,firebase,git,github,ai,ps,notion"/>
   </a>
 </p>
 
