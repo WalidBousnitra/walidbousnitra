@@ -4,11 +4,14 @@
   Computer Scientist | Business Solutions Developer | AI Engineer | Computational Systems & Algorithm Specialist
 </p>
 <p align="left>
-  - 🔭 Actualmente trabajando en LiveMed Iberia S.L.
-- 🌱 Aprendiendo Machine Learning
-- 💬 Pregúntame sobre IA y Computación Cuántica
-- 📫 Contáctame en walidbousnitra@hotmail.com
-- 🎯 Objetivo: Desarrollar soluciones innovadoras y seguir creciendo profesionalmente
+<h1>Mi lista con guiones</h1>
+
+    <ul>
+        <li>- Primer elemento</li>
+        <li>- Segundo elemento</li>
+        <li>- Tercer elemento</li>
+        <li>- Cuarto elemento</li>
+    </ul>
 </p>
 ---
 
