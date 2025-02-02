@@ -36,7 +36,7 @@
 
 ---
 
-### 🚀 Herramientas
+### 🛠️​ Herramientas
 
 <p align="center">
   <a href="https://skillicons.dev">
