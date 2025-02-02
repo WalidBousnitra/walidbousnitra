@@ -4,26 +4,38 @@
   🚀 Desarrollador | 💡 Entusiasta de la tecnología | 🎨 Creador
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
-
 ---
 
 ### 🌎 Sobre mí
 
 - 🔭 Actualmente trabajando en LiveMed Iberia S.L.
-- 🌱 Aprendiendo **[Tecnología o Habilidad que estás aprendiendo]**
-- 💬 Pregúntame sobre **[Tus Especialidades]**
+- 🌱 Aprendiendo Machine Learning
+- 💬 Pregúntame sobre IA y Computación Cuántica
 - 📫 Contáctame en **[Tu Email o Redes Sociales]**
 - 🎯 Objetivo: **[Tu meta profesional o personal]**
 
 ---
 
-### 🚀 Tecnologías y herramientas
+### 🚀 Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express,python,django,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?idea,eclipse,linux,matlab,visualstudio,vscode,androidstudio,firebase,git,github,ai,ps,notion" />
+</p>
+
+---
+
+### 🚀 Tecnologías Front-End
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,js" />
+</p>
+
+---
+
+### 🚀 Tecnologías Back-End
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,selenium,azure,bash,c,cpppostgres" />
 </p>
 
 ---
