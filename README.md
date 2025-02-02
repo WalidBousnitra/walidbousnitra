@@ -1,4 +1,3 @@
-<!-- Encabezado con una imagen y una breve presentación -->
 <h1 align="center">Hola, soy Walid Bousnitra 👋</h1>
 <p align="center">
   Computer Scientist | Business Solutions Developer | AI Engineer | Computational Systems & Algorithm Specialist
@@ -52,7 +51,3 @@
   <a href="https://linkedin.com/in/walid-bousnitra/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:walidbousnitra@hotmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
-
----
-
-⭐️ **Si te gusta mi trabajo, no dudes en dar una estrella a mis proyectos. ¡Gracias!** 🚀
