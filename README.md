@@ -10,7 +10,7 @@
 
 - 🔭 Actualmente trabajando en LiveMed Iberia S.L.
 - 🌱 Aprendiendo Machine Learning
-- 💬 Pregúntame sobre IA y Computación Cuántica
+- 💬 Preguntandome sobre IA y Computación Cuántica
 - 📫 Contáctame en walidbousnitra@hotmail.com
 - 🎯 Objetivo: Desarrollar soluciones innovadoras y seguir creciendo profesionalmente
 
